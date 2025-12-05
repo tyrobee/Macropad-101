@@ -23,6 +23,11 @@ useful, clean, and a little flashy — so I added RGB.
 ### Case (Fusion 360)  
 ![case](CAD/FINISH.png)
 
+## 🧾 BOM Image
+
+Here is a visual overview of all the parts I used:
+
+![bom](BOM/BOM.png)
 ---
 
 ## 🎯 Why These 9 Shortcuts?
