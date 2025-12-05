@@ -13,18 +13,15 @@ useful, clean, and a little flashy — so I added RGB.
 ## 📸 Project Photos
 
 ### PCB Layout  
-![pcb](photos/pcb.png)
-
+![pcb](PCB/C2.png)
 ### Schematic  
-![schem](photos/schematic.png)
+![schem](PCB/E.png)
 
 ### Assembled Board  
-![final](photos/final.png)
+![final](CAD/D.png)
 
 ### Case (Fusion 360)  
-![case](photos/case.png)
-
-*(Replace these with your actual photos)*
+![case](CAD/FINISH.png)
 
 ---
 
