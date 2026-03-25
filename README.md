@@ -19,13 +19,13 @@ and wrote the firmware using KMK on a Seeed XIAO nRF52840 which make it compelet
 ![pcb](PCB/C2.png)
 
 ### PCB Layout (V2)
-![pcb](PCB/p v2.png)
+![pcb](PCB/p_v2.png)
 
 ### Schematic (V1)
 ![schem](PCB/E.png)
 
 ### Schematic (V2)
-![schem](PCB/c v2.png)
+![schem](PCB/c_v2.png)
 
 ### Assembled Board 
 ![final](CAD/D.png)
