@@ -36,13 +36,6 @@ and wrote the firmware using KMK on a Seeed XIAO nRF52840 which make it compelet
 ### Case (Fusion 360)  
 ![case](CAD/FINISH.png)
 
-##  BOM Image 
-
-Here is a visual overview of all the parts I used:
-
-![bom](BOM/BOM.png)
----
-
 ## Why These 9 Shortcuts?
 
 I wanted shortcuts that I use constantly, either for coding or just daily use.
