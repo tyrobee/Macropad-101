@@ -2,12 +2,15 @@
 # 9-Key Macropad 
 
 This is my custom 9-key macropad project.  
-#V1(Wired)
+
+##V1(Wired)
+
 I designed the PCB in KiCad, created a simple case in Fusion 360 ,  
 and wrote the firmware using KMK on a Seeed XIAO RP2040.
 Even though this is my first time doing PCB and CAD together, I wanted some background lighting so I added RGB on the back of the pcb.
 
-#V2(Wireless)
+##V2(Wireless)
+
 I designed the PCB in KiCad, created a simple case in Fusion 360 ,  
 and wrote the firmware using KMK on a Seeed XIAO nRF52840 which make it compeletly wireless while the v1 need to be connected to the pc all the time.
 
