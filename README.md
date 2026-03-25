@@ -27,13 +27,13 @@ and wrote the firmware using KMK on a Seeed XIAO nRF52840 which make it compelet
 ### Schematic (V2)
 ![schem](PCB/c v2.png)
 
-### Assembled Board (V1)
+### Assembled Board 
 ![final](CAD/D.png)
 
 ### Case (Fusion 360)  
 ![case](CAD/FINISH.png)
 
-##  BOM Image (V1)
+##  BOM Image 
 
 Here is a visual overview of all the parts I used:
 
